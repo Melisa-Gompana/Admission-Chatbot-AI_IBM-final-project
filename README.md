@@ -24,5 +24,5 @@ This project is an AI-powered Admission Chatbot developed using IBM watsonx Assi
 ## Project Author
 Melisa Gompana
 
-## IBM SkillsBuild Final Project
-This chatbot was developed as part of the IBM SkillsBuild AI Final Project.
+## IBM SkillsBuild project 
+This chatbot was developed as part of the IBM SkillsBuild AI  Project.
